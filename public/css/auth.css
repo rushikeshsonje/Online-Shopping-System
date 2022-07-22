@@ -1,0 +1,25 @@
+main{
+  margin-top: 2rem;
+}
+
+.login-form{
+  z-index: 1;
+  padding: 1rem;
+  padding-top: 0.3rem;
+  padding-bottom: 1.7rem;
+  margin-top: 20rem;
+  width: 23rem;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 2rem;
+  display: block;
+  /* border: 3px solid black; */
+  /* background-color: rgb(255, 255, 255); */
+  box-shadow: 0px 0px 5px 1px rgb(157 132 132);
+  border: 1px solid black;
+  border-radius: .5rem;
+}
+.login-form .form-control, button{
+  margin-left: .8rem;
+  margin-bottom: 1rem;
+}
